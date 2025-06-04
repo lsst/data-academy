@@ -1,6 +1,6 @@
 # Rubin Data Academy 2025
 
-Mon Jul 30 to Thu Jul 3
+Mon Jun 30 to Thu Jul 3
 
 Virtual
 
