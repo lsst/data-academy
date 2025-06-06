@@ -10,7 +10,4 @@ No registration is required to attend, but attendees **must** set up their [Rubi
 
 For Zoom connection info: ls.st/dp0-events
 
-[Tentative schedule](https://docs.google.com/spreadsheets/d/1SQCgruYEkav70H4RaCm-Fc3B-U28ZJyHX8lQNqe8s2g/edit?usp=sharing).
-
-![image](tentative_schedule.png)
-
+![tentative_schedule_v2](https://github.com/user-attachments/assets/c4363225-9e26-481a-ae2d-a1a2ba085ab7)
