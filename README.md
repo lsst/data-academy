@@ -8,7 +8,7 @@ This year's Academy week is designed to provide a basic introduction to both the
 
 No registration is required to attend, but attendees **must** set up their [Rubin Science Platform accounts](https://rsp.lsst.io/guides/getting-started/get-an-account.html) in advance.
 
-Join the Zoom: [ls.st/cst-zoom](ls.st/cst-zoom)
+Join the Zoom: [ls.st/cst-zoom](https://ls.st/cst-zoom)
 
 ![Screenshot 2025-06-29 at 9 55 06 PM](https://github.com/user-attachments/assets/5b3b6bdf-8989-43dd-b77a-605ccaac8914)
 
