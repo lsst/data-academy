@@ -10,6 +10,7 @@ No registration is required to attend, but attendees **must** set up their [Rubi
 
 For Zoom connection info: [ls.st/rda-2025-zoom](https://ls.st/rda-2025-zoom)
 
-![Screenshot 2025-06-19 at 6 44 17 PM](https://github.com/user-attachments/assets/6914ce91-04d8-4c22-8980-01c14ce67038)
+![Screenshot 2025-06-29 at 9 55 06 PM](https://github.com/user-attachments/assets/5b3b6bdf-8989-43dd-b77a-605ccaac8914)
 
-![Screenshot 2025-06-19 at 6 45 01 PM](https://github.com/user-attachments/assets/e4ccf27e-dca2-4834-980d-8d5549c693da)
+![Screenshot 2025-06-29 at 9 59 19 PM](https://github.com/user-attachments/assets/f9fdcdf1-730e-419b-b7ce-575a4a062290)
+
