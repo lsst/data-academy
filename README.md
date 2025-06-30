@@ -25,14 +25,14 @@ Step-by-step instructions to get an account in the Rubin Science Platform (RSP) 
 
 Slides: https://docs.google.com/presentation/d/1OFIHE1cW5nv7tH-rkNicAv7nN5vYGT7Z6a5A_1qg4nA/edit?usp=drive_link
 
-Recording: 
+Recording: https://noirlab-edu.zoom.us/rec/share/HaQwHBvoRPpKJHrZ2D3Dg2y603NNFhJOu_9BlJKNbinWauI3Lrz4M1-ZrsjxbGJt.nnLy2s-3b89YlfC2?startTime=1751295705000
 
 ### 2. Data Preview 1 overview
 Learn about the target fields, observations, and data products included in the Data Preview 1 (DP1) release. Access documentation and tutorials for DP1. Work through a Jupyter Notebook tutorial that demonstrates data access and analysis for one field.
 
 Slides: https://docs.google.com/presentation/d/1lbxTlZk24SBb3RhDeX2ZiV6qZUUxhYGI9_EOi3S97co/edit?usp=drive_link
 
-Recording: 
+Recording (partial; will be replaced): https://noirlab-edu.zoom.us/rec/share/HaQwHBvoRPpKJHrZ2D3Dg2y603NNFhJOu_9BlJKNbinWauI3Lrz4M1-ZrsjxbGJt.nnLy2s-3b89YlfC2?startTime=1751299968000
 
 ### 3. Data discovery with the Portal
 A hands-on demonstration of the RSP's Portal Aspect. Learn how to browse and discover data sets, make queries and interact with the results, and make plots and display images.
