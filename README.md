@@ -10,7 +10,7 @@ No registration is required to attend, but attendees **must** set up their [Rubi
 
 Join the Zoom: [ls.st/cst-zoom](https://ls.st/cst-zoom)
 
-![Screenshot 2025-06-29 at 9 55 06 PM](https://github.com/user-attachments/assets/5b3b6bdf-8989-43dd-b77a-605ccaac8914)
+![Screenshot 2025-06-30 at 2 29 31 PM](https://github.com/user-attachments/assets/5b24de65-f150-443a-9cd8-a331d36dc29e)
 
 ## Sessions, slides, and recordings.
 
