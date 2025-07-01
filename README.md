@@ -33,7 +33,7 @@ Learn about the target fields, observations, and data products included in the D
 
 Slides: https://docs.google.com/presentation/d/1lbxTlZk24SBb3RhDeX2ZiV6qZUUxhYGI9_EOi3S97co/edit?usp=drive_link
 
-Recording (partial; will be replaced): https://noirlab-edu.zoom.us/rec/share/HaQwHBvoRPpKJHrZ2D3Dg2y603NNFhJOu_9BlJKNbinWauI3Lrz4M1-ZrsjxbGJt.nnLy2s-3b89YlfC2?startTime=1751299968000
+Recording: https://noirlab-edu.zoom.us/rec/share/qiSMKPQf6gDO2KxnOiX9g1i9LX7zvwA65eXEloFnu4ln3m5-Uh852K4GAuyZUuPi.7kd-YKHiKyi8kPUi?startTime=1751338942000
 
 ### 3. Data discovery with the Portal
 A hands-on demonstration of the RSP's Portal Aspect. Learn how to browse and discover data sets, make queries and interact with the results, and make plots and display images.
