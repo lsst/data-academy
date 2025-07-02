@@ -82,14 +82,14 @@ A hands-on tutorial about the difference images and the associated tables contai
 
 Slides: https://docs.google.com/presentation/d/1nqd09tL3p0HKsKQibXXfFV-RcQ-L_yDZq8cWX2vV1F8/edit?usp=drive_link
 
-Recording: 
+Recording: https://noirlab-edu.zoom.us/rec/share/B53fT6HTpldNl-FjhSoWyr7gT3CixAR4nmCy3-e8qxjo5FTGnInOrEgZNPPM38rr.cbbaNXavqGEAKyBx?startTime=1751425307000
 
 ### 10. Solar System catalogs
 A hands-on tutorial about the Solar System data products.
 
 Slides: https://docs.google.com/presentation/d/1oaxtUK1jnCk5lUBukNx_MM5a411Jnv_YM7VQ3pMC4YI/edit?usp=drive_link
 
-Recording: 
+Recording: https://noirlab-edu.zoom.us/rec/share/B53fT6HTpldNl-FjhSoWyr7gT3CixAR4nmCy3-e8qxjo5FTGnInOrEgZNPPM38rr.cbbaNXavqGEAKyBx?startTime=1751421815000
 
 ### Drop-in Q&A
 All are welcome. Questions can be big or small, naive or advanced. The drop-in will start with a roundtable to collect and triage questions and issues. Breakout rooms will be assigned to work through topics with Rubin staff.
