@@ -68,14 +68,14 @@ A hands-on tutorial about deep coadd images (stacked images) and the object tabl
 
 Slides: https://docs.google.com/presentation/d/1F-QXzxjpxiQme4deTLJNWrhRECeP5yk9khC4A8AITU8/edit?usp=drive_link
 
-Recording: 
+Recording: https://noirlab-edu.zoom.us/rec/share/ckhzAsKn268ZNIJE6r6Ao3gAbTnmXkD1ccnDdkXOiAC26NGT56Vejw7b0K9cHwQQ.UC7LkyekLrP9sVLW?startTime=1751385733000
 
 ### 8. Visit images and source tables
 A hands-on tutorial about individual processed visit images and the associated tables containing photometric measurements for detected sources.
 
 Slides: https://docs.google.com/presentation/d/1_fZ99726eelOVmLVjjLAWdWadqKaIq2yhD1qkh4lTvA/edit?usp=drive_link
 
-Recording: 
+Recording: https://noirlab-edu.zoom.us/rec/share/ckhzAsKn268ZNIJE6r6Ao3gAbTnmXkD1ccnDdkXOiAC26NGT56Vejw7b0K9cHwQQ.UC7LkyekLrP9sVLW?startTime=1751382184000
 
 ### 9. Difference images and lightcurves
 A hands-on tutorial about the difference images and the associated tables containing photometric measurements for sources detected in them (lightcurves).
