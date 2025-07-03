@@ -40,14 +40,14 @@ A hands-on demonstration of the RSP's Portal Aspect. Learn how to browse and dis
 
 Slides: https://docs.google.com/presentation/d/1jsnxYJzW_4QUMxwJzDR-dNV4tYJ-rTEHoeiKUe_gbJM/edit?usp=drive_link
 
-Recording: 
+Recording: https://noirlab-edu.zoom.us/rec/share/S7e22-yTKGF3BUL1enR1WkTokmBZjm5c-0g1Znskmlx1VMvj5LRNs3GtMtFnomkB.5hFb6ieMnBM7Fy-c?startTime=1751558529000
 
 ### 4. Catalog queries with TAP
 A hands-on tutorial on how to compose ADQL queries and use the TAP service from a Jupyter Notebook to retrieve and visulize data. This session will cover tips for efficient queries, query limits, and table joins, which also apply to Portal queries.
 
 Slides: https://docs.google.com/presentation/d/1j9vmSgJbcCdFToKF6RNWST4onM5vaHKgRCjN5g2Wfo0/edit?usp=drive_link
 
-Recording: 
+Recording: https://noirlab-edu.zoom.us/rec/share/S7e22-yTKGF3BUL1enR1WkTokmBZjm5c-0g1Znskmlx1VMvj5LRNs3GtMtFnomkB.5hFb6ieMnBM7Fy-c?startTime=1751554982000
 
 ### 5. Image access with the butler
 A hands-on tutorial on how to use the butler middleware in a Jupyter Notebook to find and retrieve image data and metadata.
@@ -68,7 +68,9 @@ A hands-on tutorial about deep coadd images (stacked images) and the object tabl
 
 Slides: https://docs.google.com/presentation/d/1F-QXzxjpxiQme4deTLJNWrhRECeP5yk9khC4A8AITU8/edit?usp=drive_link
 
-Recording: https://noirlab-edu.zoom.us/rec/share/ckhzAsKn268ZNIJE6r6Ao3gAbTnmXkD1ccnDdkXOiAC26NGT56Vejw7b0K9cHwQQ.UC7LkyekLrP9sVLW?startTime=1751385733000
+Recording 1 (Tue): https://noirlab-edu.zoom.us/rec/share/ckhzAsKn268ZNIJE6r6Ao3gAbTnmXkD1ccnDdkXOiAC26NGT56Vejw7b0K9cHwQQ.UC7LkyekLrP9sVLW?startTime=1751385733000
+
+Recording 2 (Wed): https://noirlab-edu.zoom.us/rec/share/rHYBr_uI7vjQENRzRc5o8bhGa-1zM3e8ieS6eXlNdrLzMB0cApeUu221Gf-E0fqu.d89MTTWgr0KQsgJU?startTime=1751468543000
 
 ### 8. Visit images and source tables
 A hands-on tutorial about individual processed visit images and the associated tables containing photometric measurements for detected sources.
