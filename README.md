@@ -68,7 +68,9 @@ A hands-on tutorial about deep coadd images (stacked images) and the object tabl
 
 Slides: https://docs.google.com/presentation/d/1F-QXzxjpxiQme4deTLJNWrhRECeP5yk9khC4A8AITU8/edit?usp=drive_link
 
-Recording: https://noirlab-edu.zoom.us/rec/share/ckhzAsKn268ZNIJE6r6Ao3gAbTnmXkD1ccnDdkXOiAC26NGT56Vejw7b0K9cHwQQ.UC7LkyekLrP9sVLW?startTime=1751385733000
+Recording 1 (Tue): https://noirlab-edu.zoom.us/rec/share/ckhzAsKn268ZNIJE6r6Ao3gAbTnmXkD1ccnDdkXOiAC26NGT56Vejw7b0K9cHwQQ.UC7LkyekLrP9sVLW?startTime=1751385733000
+
+Recording 2 (Wed): https://noirlab-edu.zoom.us/rec/share/rHYBr_uI7vjQENRzRc5o8bhGa-1zM3e8ieS6eXlNdrLzMB0cApeUu221Gf-E0fqu.d89MTTWgr0KQsgJU?startTime=1751468543000
 
 ### 8. Visit images and source tables
 A hands-on tutorial about individual processed visit images and the associated tables containing photometric measurements for detected sources.
