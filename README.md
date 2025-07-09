@@ -54,14 +54,14 @@ A hands-on tutorial on how to use the butler middleware in a Jupyter Notebook to
 
 Slides: https://docs.google.com/presentation/d/1s-e8OOfEywljJZPFhQNW5A-QVo-hmi44clW_xMNlat8/edit?usp=drive_link
 
-Recording: 
+Recording: https://noirlab-edu.zoom.us/rec/share/vSGetlrEHqoFNmedUM9F0OFgTqnoVeJaYWwtOM7V238K-tyTXhA_EnC8y_nn4b0C.YjZDWaeVN1noli6Z?startTime=1751594598000
 
 ### 6. Image access and display
 A hands-on tutorial on how to use the butler, SIA, and TAP to access images; how to retrieve image cutouts; and how to use Firefly for interactive image display and manipulation in the Notebook and Portal aspects.
 
 Slides: https://docs.google.com/presentation/d/17_zUEDDocXcimhXA312gu6idxFtg5bAVLkBrRjkptEk/edit?usp=drive_link
 
-Recording: 
+Recording: https://noirlab-edu.zoom.us/rec/share/vSGetlrEHqoFNmedUM9F0OFgTqnoVeJaYWwtOM7V238K-tyTXhA_EnC8y_nn4b0C.YjZDWaeVN1noli6Z?startTime=1751598130000
 
 ### 7. Deep coadds and the object table
 A hands-on tutorial about deep coadd images (stacked images) and the object table containing photometry for the detected static-sky sources.
