@@ -18,7 +18,7 @@ Sessions: This year, all sessions are being run with the tutorials for Data Prev
 
 Slides: Links to all slide decks are view-only. Most sessions have very limited slides as most of the time will be spent in hands-on demonstrations with the RSP.
 
-Recordings: The first instance of every session will be recorded.
+Recordings: The first instance of every session was recorded and all are available in the {Rubin Data Academy 2025 playlist}(https://www.youtube.com/playlist?list=PLPINAcUH0dXZaNXFglLxUYZhADMG3sCfT).
 
 ### 1. Get started with the RSP
 Step-by-step instructions to get an account in the Rubin Science Platform (RSP) at data.lsst.cloud. Learn how to execute a Jupyter Notebook and discover data via the Portal. Access the RSP's documentation and learn where to ask for help. This session is for those who have never used the RSP before or could use a refresher.	
@@ -90,7 +90,7 @@ A hands-on tutorial about the Solar System data products.
 
 Slides: https://docs.google.com/presentation/d/1oaxtUK1jnCk5lUBukNx_MM5a411Jnv_YM7VQ3pMC4YI/edit?usp=drive_link
 
-Recording: https://noirlab-edu.zoom.us/rec/share/B53fT6HTpldNl-FjhSoWyr7gT3CixAR4nmCy3-e8qxjo5FTGnInOrEgZNPPM38rr.cbbaNXavqGEAKyBx?startTime=1751421815000
+Recording: https://www.youtube.com/watch?v=tKr6C105Nc0&list=PLPINAcUH0dXZaNXFglLxUYZhADMG3sCfT&index=11
 
 ### Drop-in Q&A
 All are welcome. Questions can be big or small, naive or advanced. The drop-in will start with a roundtable to collect and triage questions and issues. Breakout rooms will be assigned to work through topics with Rubin staff.
