@@ -9,7 +9,7 @@ The 2026 Academy week will be designed to provide a basic introduction to both t
 Two sessions ("A" and "B") are provided each day to accommodate a variety of timezones and schedules.
 The contents of sessions A and B will be similar, and all sessions are open to everyone.
 
-<img width="969" height="482" alt="image" src="https://github.com/user-attachments/assets/61155634-a090-48e4-88fb-3d6184d7b220" />
+<img width="971" height="484" alt="image" src="https://github.com/user-attachments/assets/d7cb5225-7b67-495a-afb9-4981f1c83ace" />
 
 No registration fees will be required to attend. 
 A [Rubin Science Platform account](https://rsp.lsst.io/guides/getting-started/get-an-account.html) is necessary to access Rubin data releases.
