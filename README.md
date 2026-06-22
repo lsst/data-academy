@@ -27,21 +27,21 @@ Recordings: The first instance of every session will be recorded and all will be
 ### 1. Get started with the RSP
 Step-by-step instructions to get an account in the Rubin Science Platform (RSP) at [data.lsst.cloud](https://data.lsst.cloud/). Learn how to execute a Jupyter Notebook and discover data via the Portal. Access the RSP's documentation and learn where to ask for help. This session is for those who have never used the RSP before or could use a refresher.	
 
-Slides: TBD
+Slides: [https://docs.google.com/presentation/d/1v1XvJn1mKrO5lzo6dwn98A3eHjXkO_CTGg_xkyHyotQ/edit?usp=sharing](https://docs.google.com/presentation/d/1v1XvJn1mKrO5lzo6dwn98A3eHjXkO_CTGg_xkyHyotQ/edit?usp=sharing)
 
 Recording: TBD
 
 ### 2. Data Preview 1 overview
 Learn about the target fields, observations, and data products included in the Data Preview 1 (DP1) release. Access documentation and tutorials for DP1. Work through a Jupyter Notebook tutorial that demonstrates data access and analysis for one field.
 
-Slides: TBD
+Slides: [https://docs.google.com/presentation/d/1dnL7MCRtGLNgv16qmbXzjeyK_CKnCHTbAcMx6GppcHo/edit?usp=sharing](https://docs.google.com/presentation/d/1dnL7MCRtGLNgv16qmbXzjeyK_CKnCHTbAcMx6GppcHo/edit?usp=sharing)
 
 Recording: TBD
 
 ### 3. Data discovery with the Portal
 A hands-on demonstration of the RSP's Portal Aspect. Learn how to browse and discover data sets, make queries and interact with the results, and make plots and display images.
 
-Slides: TBD
+Slides: [https://docs.google.com/presentation/d/14F5fGuqbQq62Oa0mBrO89ZNrP-MNiiXcBfQpkgIG7AA/edit?usp=sharing](https://docs.google.com/presentation/d/14F5fGuqbQq62Oa0mBrO89ZNrP-MNiiXcBfQpkgIG7AA/edit?usp=sharing)
 
 Recording: TBD
 
