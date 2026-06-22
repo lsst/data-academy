@@ -2,7 +2,7 @@
 
 June 22-25 2026
 
-Virtual -- zoom link will be added shortly before the event
+Virtual -- [zoom link](https://ls.st/rda-2026-zoom)
 
 The 2026 Academy week will be designed to provide a basic introduction to both the Rubin Science Platform's tools and the current data releases.
 
