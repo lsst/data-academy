@@ -48,21 +48,21 @@ Recording: TBD
 ### 4. Catalog queries with TAP
 A hands-on tutorial on how to compose ADQL queries and use the TAP service from a Jupyter Notebook to retrieve and visulize data. This session will cover tips for efficient queries, query limits, and table joins, which also apply to Portal queries.
 
-Slides: TBD
+Slides: [https://docs.google.com/presentation/d/18biuSmIFHEAOAKMdvLTooav7FEJ6nEeN63FykXqzo78/edit?usp=sharing](https://docs.google.com/presentation/d/18biuSmIFHEAOAKMdvLTooav7FEJ6nEeN63FykXqzo78/edit?usp=sharing)
 
 Recording: TBD
 
 ### 5. Image access with the butler
 A hands-on tutorial on how to use the butler middleware in a Jupyter Notebook to find and retrieve image data and metadata.
 
-Slides: TBD
+Slides: [https://docs.google.com/presentation/d/1PoxM7s0k4ebRGMd8ngMQxMuNqqtQwfDbuGoLsbA1_eU/edit?usp=sharing](https://docs.google.com/presentation/d/1PoxM7s0k4ebRGMd8ngMQxMuNqqtQwfDbuGoLsbA1_eU/edit?usp=sharing)
 
 Recording: TBD
 
 ### 6. Image access and display
 A hands-on tutorial on how to use the butler, SIA, and TAP to access images; how to retrieve image cutouts; and how to use Firefly for interactive image display and manipulation in the Notebook and Portal aspects.
 
-Slides: TBD
+Slides: [https://docs.google.com/presentation/d/1HL3UjEIirWSHXIeedhCZkaI5b-iPGgIx7kX4UQ11O-8/edit?usp=sharing](https://docs.google.com/presentation/d/1HL3UjEIirWSHXIeedhCZkaI5b-iPGgIx7kX4UQ11O-8/edit?usp=sharing)
 
 Recording: TBD
 
