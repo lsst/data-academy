@@ -69,21 +69,21 @@ Recording: TBD
 ### 7. Deep coadds and the object table
 A hands-on tutorial about deep coadd images (stacked images) and the object table containing photometry for the detected static-sky sources.
 
-Slides: TBD
+Slides: [https://docs.google.com/presentation/d/14t_eRQPaX_WalZ0662faaSlS1rdTn_q0wEQO4hDbMbI/edit?usp=sharing](https://docs.google.com/presentation/d/14t_eRQPaX_WalZ0662faaSlS1rdTn_q0wEQO4hDbMbI/edit?usp=sharing)
 
 Recording: TBD
 
 ### 8. Visit images and source tables
 A hands-on tutorial about individual processed visit images and the associated tables containing photometric measurements for detected sources.
 
-Slides: TBD
+Slides: [https://docs.google.com/presentation/d/1VJVVu9QvYS8q1MoTkYowS-hJKOGI4Sq3ZogQt6mgqNs/edit?usp=sharing](https://docs.google.com/presentation/d/1VJVVu9QvYS8q1MoTkYowS-hJKOGI4Sq3ZogQt6mgqNs/edit?usp=sharing)
 
 Recording: TBD
 
 ### 9. Difference images and lightcurves
 A hands-on tutorial about the difference images and the associated tables containing photometric measurements for sources detected in them (lightcurves).
 
-Slides: TBD
+Slides: [https://docs.google.com/presentation/d/14DLrUUNRkifJbBhppTj-ZIW5LKntr0b-T0Xz-rCcSCA/edit?usp=sharing](https://docs.google.com/presentation/d/14DLrUUNRkifJbBhppTj-ZIW5LKntr0b-T0Xz-rCcSCA/edit?usp=sharing)
 
 Recording: TBD
 
