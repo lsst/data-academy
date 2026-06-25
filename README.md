@@ -22,49 +22,49 @@ Sessions: All sessions will use existing tutorials for Data Preview 1 (DP1), whi
 
 Slides: Links to all slide decks are view-only. Most sessions have very limited slides as most of the time will be spent in hands-on demonstrations with the RSP.
 
-Recordings: The first instance of every session will be recorded and all will be made available in a Rubin Data Academy 2026 YouTube playlist.
+Recordings: The first instance of every session will be recorded and all will be made available in a [Rubin Data Academy 2026 YouTube playlist](https://www.youtube.com/playlist?list=PLWa4zoTTOBMo).
 
 ### 1. Get started with the RSP
 Step-by-step instructions to get an account in the Rubin Science Platform (RSP) at [data.lsst.cloud](https://data.lsst.cloud/). Learn how to execute a Jupyter Notebook and discover data via the Portal. Access the RSP's documentation and learn where to ask for help. This session is for those who have never used the RSP before or could use a refresher.	
 
 Slides: [https://docs.google.com/presentation/d/1v1XvJn1mKrO5lzo6dwn98A3eHjXkO_CTGg_xkyHyotQ/edit?usp=sharing](https://docs.google.com/presentation/d/1v1XvJn1mKrO5lzo6dwn98A3eHjXkO_CTGg_xkyHyotQ/edit?usp=sharing)
 
-Recording: TBD
+Recording: [https://youtu.be/qm4nS9NWB2c?si=i5wd9ylkVUkPOiF3](https://youtu.be/qm4nS9NWB2c?si=i5wd9ylkVUkPOiF3)
 
 ### 2. Data Preview 1 overview
 Learn about the target fields, observations, and data products included in the Data Preview 1 (DP1) release. Access documentation and tutorials for DP1. Work through a Jupyter Notebook tutorial that demonstrates data access and analysis for one field.
 
 Slides: [https://docs.google.com/presentation/d/1dnL7MCRtGLNgv16qmbXzjeyK_CKnCHTbAcMx6GppcHo/edit?usp=sharing](https://docs.google.com/presentation/d/1dnL7MCRtGLNgv16qmbXzjeyK_CKnCHTbAcMx6GppcHo/edit?usp=sharing)
 
-Recording: TBD
+Recording: [https://youtu.be/toK9A_6-rEk?si=pdYzOZvNdFP3DCb1](https://youtu.be/toK9A_6-rEk?si=pdYzOZvNdFP3DCb1)
 
 ### 3. Data discovery with the Portal
 A hands-on demonstration of the RSP's Portal Aspect. Learn how to browse and discover data sets, make queries and interact with the results, and make plots and display images.
 
 Slides: [https://docs.google.com/presentation/d/14F5fGuqbQq62Oa0mBrO89ZNrP-MNiiXcBfQpkgIG7AA/edit?usp=sharing](https://docs.google.com/presentation/d/14F5fGuqbQq62Oa0mBrO89ZNrP-MNiiXcBfQpkgIG7AA/edit?usp=sharing)
 
-Recording: TBD
+Recording: [https://youtu.be/gyA2KfDsaH8?si=Hec2pLgAfBnRA_Wt](https://youtu.be/gyA2KfDsaH8?si=Hec2pLgAfBnRA_Wt)
 
 ### 4. Catalog queries with TAP
 A hands-on tutorial on how to compose ADQL queries and use the TAP service from a Jupyter Notebook to retrieve and visulize data. This session will cover tips for efficient queries, query limits, and table joins, which also apply to Portal queries.
 
 Slides: [https://docs.google.com/presentation/d/18biuSmIFHEAOAKMdvLTooav7FEJ6nEeN63FykXqzo78/edit?usp=sharing](https://docs.google.com/presentation/d/18biuSmIFHEAOAKMdvLTooav7FEJ6nEeN63FykXqzo78/edit?usp=sharing)
 
-Recording: TBD
+Recording: [https://youtu.be/ewMMewLFRWY?si=-nOJ3TQgQGP6sLMu](https://youtu.be/ewMMewLFRWY?si=-nOJ3TQgQGP6sLMu)
 
 ### 5. Image access with the butler
 A hands-on tutorial on how to use the butler middleware in a Jupyter Notebook to find and retrieve image data and metadata.
 
 Slides: [https://docs.google.com/presentation/d/1PoxM7s0k4ebRGMd8ngMQxMuNqqtQwfDbuGoLsbA1_eU/edit?usp=sharing](https://docs.google.com/presentation/d/1PoxM7s0k4ebRGMd8ngMQxMuNqqtQwfDbuGoLsbA1_eU/edit?usp=sharing)
 
-Recording: TBD
+Recording: [https://youtu.be/S67sr_ETTr4?si=LQGXchQldnQME2ho](https://youtu.be/S67sr_ETTr4?si=LQGXchQldnQME2ho)
 
 ### 6. Image access and display
 A hands-on tutorial on how to use the butler, SIA, and TAP to access images; how to retrieve image cutouts; and how to use Firefly for interactive image display and manipulation in the Notebook and Portal aspects.
 
 Slides: [https://docs.google.com/presentation/d/1HL3UjEIirWSHXIeedhCZkaI5b-iPGgIx7kX4UQ11O-8/edit?usp=sharing](https://docs.google.com/presentation/d/1HL3UjEIirWSHXIeedhCZkaI5b-iPGgIx7kX4UQ11O-8/edit?usp=sharing)
 
-Recording: TBD
+Recording: [https://youtu.be/HS_0vrs0gAA?si=a5wubvbMfQuyjypM](https://youtu.be/HS_0vrs0gAA?si=a5wubvbMfQuyjypM)
 
 ### 7. Deep coadds and the object table
 A hands-on tutorial about deep coadd images (stacked images) and the object table containing photometry for the detected static-sky sources.
