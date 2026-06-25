@@ -71,21 +71,21 @@ A hands-on tutorial about deep coadd images (stacked images) and the object tabl
 
 Slides: [https://docs.google.com/presentation/d/14t_eRQPaX_WalZ0662faaSlS1rdTn_q0wEQO4hDbMbI/edit?usp=sharing](https://docs.google.com/presentation/d/14t_eRQPaX_WalZ0662faaSlS1rdTn_q0wEQO4hDbMbI/edit?usp=sharing)
 
-Recording: TBD
+Recording: [https://youtu.be/3BCy9lXEhho?si=q_FdQofkAL8VIQNo](https://youtu.be/3BCy9lXEhho?si=q_FdQofkAL8VIQNo)
 
 ### 8. Visit images and source tables
 A hands-on tutorial about individual processed visit images and the associated tables containing photometric measurements for detected sources.
 
 Slides: [https://docs.google.com/presentation/d/1VJVVu9QvYS8q1MoTkYowS-hJKOGI4Sq3ZogQt6mgqNs/edit?usp=sharing](https://docs.google.com/presentation/d/1VJVVu9QvYS8q1MoTkYowS-hJKOGI4Sq3ZogQt6mgqNs/edit?usp=sharing)
 
-Recording: TBD
+Recording: [https://youtu.be/ALxrdN1t0Fk?si=1V8vYBDtehUmgMHI](https://youtu.be/ALxrdN1t0Fk?si=1V8vYBDtehUmgMHI)
 
 ### 9. Difference images and lightcurves
 A hands-on tutorial about the difference images and the associated tables containing photometric measurements for sources detected in them (lightcurves).
 
 Slides: [https://docs.google.com/presentation/d/14DLrUUNRkifJbBhppTj-ZIW5LKntr0b-T0Xz-rCcSCA/edit?usp=sharing](https://docs.google.com/presentation/d/14DLrUUNRkifJbBhppTj-ZIW5LKntr0b-T0Xz-rCcSCA/edit?usp=sharing)
 
-Recording: TBD
+Recording: [https://youtu.be/l6-iAiC1m1g?si=hVwbyFXA9NDBB849](https://youtu.be/l6-iAiC1m1g?si=hVwbyFXA9NDBB849)
 
 ### 10. Solar System catalogs
 A hands-on tutorial about the Solar System data products.
