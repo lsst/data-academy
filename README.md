@@ -90,21 +90,21 @@ Recording: TBD
 ### 10. Solar System catalogs
 A hands-on tutorial about the Solar System data products.
 
-Slides: TBD
+Slides: [https://docs.google.com/presentation/d/1pds3OxL4vF6au7DLYQimEn-lIAprDuXlpRqxHJK8kVs/edit?usp=sharing](https://docs.google.com/presentation/d/1pds3OxL4vF6au7DLYQimEn-lIAprDuXlpRqxHJK8kVs/edit?usp=sharing)
 
 Recording: TBD
 
 ### 11. What's new in DP2
 Learn about the LSSTCam and the dataset that will make up Data Preview 2 (DP2), and what is changing about the data products as we go from DP1 to DP2.
 
-Slides: TBD
+Slides: [https://docs.google.com/presentation/d/1PN3_vsU6MhPNEbutTrizAXwvoYJwb8ZB2f4DW19KflQ/edit?usp=sharing](https://docs.google.com/presentation/d/1PN3_vsU6MhPNEbutTrizAXwvoYJwb8ZB2f4DW19KflQ/edit?usp=sharing)
 
 Recording: TBD
 
 ### 12. Prompt Products
 Hands-on tutorials for alerts access via the RSP (Notebook and Portal). Learn about the soon-to-come Prompt Products Database (PPDB) and Prompt images.
 
-Slides: TBD
+Slides: [https://docs.google.com/presentation/d/1T_1FoCFQTt7xoRcgEsN-SBXjwLDsUhKv_qmECuPPLpI/edit?usp=sharing](https://docs.google.com/presentation/d/1T_1FoCFQTt7xoRcgEsN-SBXjwLDsUhKv_qmECuPPLpI/edit?usp=sharing)
 
 Recording: TBD
 
