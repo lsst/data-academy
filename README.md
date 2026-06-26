@@ -4,7 +4,7 @@ June 22-25 2026
 
 Virtual -- [zoom link](https://ls.st/rda-2026-zoom)
 
-The 2026 Academy week will be designed to provide a basic introduction to both the Rubin Science Platform's tools and the current data releases.
+The 2026 Academy week was designed to provide a basic introduction to both the Rubin Science Platform's tools and the current data releases.
 
 Two sessions ("A" and "B") are provided each day to accommodate a variety of timezones and schedules.
 The contents of sessions A and B will be similar, and all sessions are open to everyone.
@@ -22,7 +22,7 @@ Sessions: All sessions will use existing tutorials for Data Preview 1 (DP1), whi
 
 Slides: Links to all slide decks are view-only. Most sessions have very limited slides as most of the time will be spent in hands-on demonstrations with the RSP.
 
-Recordings: The first instance of every session will be recorded and all will be made available in a [Rubin Data Academy 2026 YouTube playlist](https://www.youtube.com/playlist?list=PLWa4zoTTOBMo).
+Recordings: The first instance of every session was recorded and all are available in a [Rubin Data Academy 2026 YouTube playlist](https://www.youtube.com/playlist?list=PLWa4zoTTOBMo).
 
 ### 1. Get started with the RSP
 Step-by-step instructions to get an account in the Rubin Science Platform (RSP) at [data.lsst.cloud](https://data.lsst.cloud/). Learn how to execute a Jupyter Notebook and discover data via the Portal. Access the RSP's documentation and learn where to ask for help. This session is for those who have never used the RSP before or could use a refresher.	
@@ -92,21 +92,21 @@ A hands-on tutorial about the Solar System data products.
 
 Slides: [https://docs.google.com/presentation/d/1pds3OxL4vF6au7DLYQimEn-lIAprDuXlpRqxHJK8kVs/edit?usp=sharing](https://docs.google.com/presentation/d/1pds3OxL4vF6au7DLYQimEn-lIAprDuXlpRqxHJK8kVs/edit?usp=sharing)
 
-Recording: TBD
+Recording: [https://youtu.be/b24TVF4jTKs?si=0YwrjcioCzuOCAcS](https://youtu.be/b24TVF4jTKs?si=0YwrjcioCzuOCAcS)
 
 ### 11. What's new in DP2
 Learn about the LSSTCam and the dataset that will make up Data Preview 2 (DP2), and what is changing about the data products as we go from DP1 to DP2.
 
 Slides: [https://docs.google.com/presentation/d/1PN3_vsU6MhPNEbutTrizAXwvoYJwb8ZB2f4DW19KflQ/edit?usp=sharing](https://docs.google.com/presentation/d/1PN3_vsU6MhPNEbutTrizAXwvoYJwb8ZB2f4DW19KflQ/edit?usp=sharing)
 
-Recording: TBD
+Recording: [https://youtu.be/DOGKpqmJMp0?si=mivMHmlbfO8ZTm7o](https://youtu.be/DOGKpqmJMp0?si=mivMHmlbfO8ZTm7o)
 
 ### 12. Prompt Products
 Hands-on tutorials for alerts access via the RSP (Notebook and Portal). Learn about the soon-to-come Prompt Products Database (PPDB) and Prompt images.
 
 Slides: [https://docs.google.com/presentation/d/1T_1FoCFQTt7xoRcgEsN-SBXjwLDsUhKv_qmECuPPLpI/edit?usp=sharing](https://docs.google.com/presentation/d/1T_1FoCFQTt7xoRcgEsN-SBXjwLDsUhKv_qmECuPPLpI/edit?usp=sharing)
 
-Recording: TBD
+Recording: [https://youtu.be/_2CDmZReu6I?si=7vFePfXRGQhKUSRx](https://youtu.be/_2CDmZReu6I?si=7vFePfXRGQhKUSRx)
 
 ### Drop-in Q&A
 All are welcome. Questions can be big or small, naive or advanced. If necessary, breakout rooms will be assigned to work through topics with Rubin staff.
